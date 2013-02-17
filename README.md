@@ -4,8 +4,8 @@ Martin O'Hanlon (martin@ohanlonweb.com)
 http://www.stuffaboutcode.com
 -------------------------------------------------------------------------------
 
-An auto bridge program for Minecraft: Pi edition
-http://www.stuffaboutcode.com/2013/02/raspberry-pi-minecraft-auto-bridge.html
+A massive analogue clock program for Minecraft: Pi edition
+http://www.stuffaboutcode.com/2013/02/raspberry-pi-minecraft-analogue-clock.html
 
 ------------------------------------------------------------------------------
 
